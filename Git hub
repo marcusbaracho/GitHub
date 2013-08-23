@@ -13,3 +13,5 @@ Desde sua concepção em 2005, o Git evoluiu e amadureceu a ponto de ser um sist
 GitHub é um Serviço de Web Hosting Compartilhado para projetos que usam o controle de versionamento Git. É escrito em Ruby on Rails pelos desenvolvedores da Logical Awesome (Chris Wanstrath, PJ Hyett e Tom Preston - Wernder). O GitHub possui planos comerciais e gratuitos para projetos de código aberto.
 Este site possui funcionalidades de uma rede social como feeds, followers, wiki e um gráfico que mostra como os desenvolvedores trabalham as versões de seus repositórios.
 O GitHub também possui um serviço tipo pastebin chamado Gist.
+Bitbucket é um serviço de hospedagem de projetos controlados através do Mercurial1 , um sistema de controle de versões distribuído. É similar ao GitHub (que utiliza Git, somente). Bitbucket têm um serviço grátis e um comercial. O serviço é escrito em Python.2 Num blog de 2008, de Bruce Eckel comparou Bitbucket favoravelmente ao sítio web Launchpad,3 que utiliza Bazaar.
+O Bitbucket também suporta repositórios usando o sistema de controle de versões Git.

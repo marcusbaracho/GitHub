@@ -10,3 +10,6 @@ Suporte robusto a desenvolvimento não linear (milhares de branches paralelos)
 Totalmente distribuído
 Capaz de lidar eficientemente com grandes projetos como o kernel do Linux (velocidade e volume de dados)
 Desde sua concepção em 2005, o Git evoluiu e amadureceu a ponto de ser um sistema fácil de usar e ainda assim mantém essas qualidades iniciais. É incrivelmente rápido, bastante eficiente com grandes projetos e possui um sistema impressionante de branching para desenvolvimento não-linear
+GitHub é um Serviço de Web Hosting Compartilhado para projetos que usam o controle de versionamento Git. É escrito em Ruby on Rails pelos desenvolvedores da Logical Awesome (Chris Wanstrath, PJ Hyett e Tom Preston - Wernder). O GitHub possui planos comerciais e gratuitos para projetos de código aberto.
+Este site possui funcionalidades de uma rede social como feeds, followers, wiki e um gráfico que mostra como os desenvolvedores trabalham as versões de seus repositórios.
+O GitHub também possui um serviço tipo pastebin chamado Gist.

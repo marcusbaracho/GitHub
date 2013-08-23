@@ -10,3 +10,27 @@ Suporte robusto a desenvolvimento não linear (milhares de branches paralelos)
 Totalmente distribuído
 Capaz de lidar eficientemente com grandes projetos como o kernel do Linux (velocidade e volume de dados)
 Desde sua concepção em 2005, o Git evoluiu e amadureceu a ponto de ser um sistema fácil de usar e ainda assim mantém essas qualidades iniciais. É incrivelmente rápido, bastante eficiente com grandes projetos e possui um sistema impressionante de branching para desenvolvimento não-linear
+
+Ultimamente estou envolvido em vários projetos ao mesmo tempo com várias equipes diferentes, então controle de versão é essencial.
+
+Segue um manualzinho básico para iniciar com o git, espero atualizar e complementar este passo-a-passo com mais exemplos logo.
+
+O git serve para versionamento local, você pode compartilhar de algumas maneiras, a mais fácil é com serviços online. Neste exemplo vou usar o github, testei também o projectlocker, que dá repositórios private grátis,  mas não gostei. Outro que parece legal é o Codaset, ainda não testei.1) Instalar git
+
+1
+$ sudo apt-get install git-core
+É necessário gerar uma chave ssh e fazer um cadastro em algum repositório git. ( Esta etapa não é exatamente sobre o git, mas sobre a segurança dos repositórios. )
+
+Confira se vc já tem alguma chave com um "ls ~/.ssh/", se já existir uma você pode utilizá-la ou gerar uma nova:
+
+com instalar?
+
+É necessário gerar uma chave ssh e fazer um cadastro em algum repositório git. ( Esta etapa não é exatamente sobre o git, mas sobre a segurança dos repositórios. )
+
+Confira se vc já tem alguma chave com um "ls ~/.ssh/", se já existir uma você pode utilizá-la ou gerar uma nova:
+
+como criar projeto?
+
+1) Podemos criar um novo projeto ou usar um existente. Para criar um novo vá até o github e no alto da página clique em "Dashboard" e depois em "New Repository".
+
+Crie um espaço para o projeto no comnputador:
